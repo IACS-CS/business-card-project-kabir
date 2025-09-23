@@ -3,3 +3,14 @@
   color: red;
   margin-left: 1.5in;
 }
+
+.card-1 p {
+  margin-right: 1.7in;
+  margin-bottom: 1.7in;
+  font-weight: bold;
+  border-bottom: 2px solid black;
+  border-width: 1px;
+
+main {
+  background-color: grey;
+}
