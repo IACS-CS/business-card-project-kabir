@@ -4,13 +4,45 @@
   margin-left: 1.5in;
 }
 
-.card-1 p {
-  margin-right: 1.7in;
-  margin-bottom: 1.7in;
+.p1 {
+  margin-right: .5;
+  margin-bottom: 0.1in;
   font-weight: bold;
   border-bottom: 2px solid black;
   border-width: 1px;
+  margin-top: 0.1in;
+  margin-left: 0.1in;
+}
 
 main {
-  background-color: grey;
+  background-color: rgb(77, 71, 71);
+  border-color: #1d2542;
+  padding: 1px;
+  border-style: solid;
+  border-width: 0.09in;
+  border-bottom-color: rgb(89, 89, 102);
+  border-top-color: rgb(45, 45, 57);
+}
+
+.p2 {
+  margin-bottom: 0.1in;
+  margin-left: 0.1in;
+  margin-top: 0.1px;
+  margin-right: 2.5in;
+  font-weight: bold;
+  border-bottom: 2px solid black;
+  text;
+
+}
+
+img{
+  width: 250px;
+}
+
+.p3 {
+  font-weight: bold;
+  margin-bottom: 1in;
+  border-bottom: 2px solid black;
+  margin-left: 0.1in;
+  margin-right: 20px;
 }
