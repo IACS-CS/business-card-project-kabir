@@ -35,8 +35,12 @@ main {
 
 }
 
-img{
-  width: 250px;
+.img {
+  width: 2.1in;
+  margin-bottom: 0.5in;
+  text-align: center;
+  margin-left: 0.7in;
+
 }
 
 .p3 {
@@ -55,6 +59,8 @@ img{
   margin-top: 1px;
   border-bottom: 2px solid black;
   margin-bottom: 1px;
+  margin-left: 10px;
+
 }
 
 .p5 {
@@ -63,15 +69,28 @@ img{
   border-bottom: 2px solid black;
   margin-right: 1px;
   margin-bottom: 1px;
+  margin-left: 10px;
 
 
 }
 
-.img {
-  width: 150px;
-  margin-top: 0.1px;
-  margin-left:1.8in;
-  margin-bottom: 2in;
+/* help from Mr. Hinkle w/ left-side */
+.left-side {
+  display: inline-block; /* make it like a letter (left to right) */
+  width: 1.5in;
+  margin-bottom: 10px;
+  color: #112040;
+}
+
+.img1 {
+  width: 1.6in;
+  margin-top: 10px;
+  margin-left:20px;
+
+
+
+}
+
 
 
 }
