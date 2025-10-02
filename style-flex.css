@@ -1,3 +1,27 @@
 /* Style for card-2 (your flexbox example) */
 .card-2 {
+  background-color: rgb(250, 220, 220);
+
 }
+
+.card2 {
+  font-weight: bold;
+  border-bottom:2px solid black;
+  text-align: center;
+  font-family: 'Barrio', cursive;
+}
+
+.ggg {
+  margin-bottom: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.iii {
+  text-align: center;
+  font-weight: bold;
+
+}
+
+
+
